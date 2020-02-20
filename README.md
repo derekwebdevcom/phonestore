@@ -9,7 +9,7 @@ This project uses the following technologies:
 - [Reactstrap](https://reactstrap.github.io/) for cross browser compatibility
 
 ## Configuration
--[Clone](https://github.com/derekwebdevcom/hotelbooking.git) or
+-[Clone](https://github.com/derekwebdevcom/phonestore.git) or
 -[Download Zip](https://github.com/derekwebdevcom/hotelbooking/archive/master.zip)
 
 
