@@ -5,7 +5,7 @@
 This project uses the following technologies:
 
 - [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for frontend
-- [HashRouter](https://www.npmjs.com/package/hash-router) 
+- [HashRouter](https://www.npmjs.com/package/hash-router) for hosting on subdomains
 - [Reactstrap](https://reactstrap.github.io/) for cross browser compatibility
 - [PayPal API](https://developer.paypal.com/) for easy payment processing
 
