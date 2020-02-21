@@ -10,8 +10,8 @@ This project uses the following technologies:
 - [PayPal API](https://developer.paypal.com/) for easy payment processing
 
 ## Configuration
--[Clone](https://github.com/derekwebdevcom/phonestore.git) or
--[Download Zip](https://github.com/derekwebdevcom/phonestore/archive/master.zip)
+-[Clone](https://github.com/derekwebdevcom/phonestore.git) for Mac
+-[Download Zip](https://github.com/derekwebdevcom/phonestore/archive/master.zip) for Windows
 
 
 ## Quick Start
